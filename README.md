@@ -5,3 +5,5 @@ download this project and review pom.xml and project folder structures.
 3. mvn -Pprod clean spring-boot:run
 
 in browser check the url "http://localhost:8080"
+
+Jenkins test
