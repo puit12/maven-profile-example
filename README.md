@@ -8,4 +8,4 @@ in browser check the url "http://localhost:8080"
 
 Jenkins test
 
-젠킨스 2차 테스트
+젠킨스 3차 테스트
