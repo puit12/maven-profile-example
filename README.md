@@ -7,3 +7,5 @@ download this project and review pom.xml and project folder structures.
 in browser check the url "http://localhost:8080"
 
 Jenkins test
+
+젠킨스 2차 테스트
