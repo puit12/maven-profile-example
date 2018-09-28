@@ -10,4 +10,8 @@ Jenkins test
 
 서버시간 변경 (4차)
 웹훅 설정(5차)
+<<<<<<< HEAD
 Slack Notification test 
+=======
+slack 알림확인  (7차)
+>>>>>>> 561fd9805a98ff6e9dd656b9aeb6ad7341536f51
