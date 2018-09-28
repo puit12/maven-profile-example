@@ -8,4 +8,4 @@ in browser check the url "http://localhost:8080"
 
 Jenkins test
 
-젠킨스 4차 테스트
+서버시간 변경 (4차)
