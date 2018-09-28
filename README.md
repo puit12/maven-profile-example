@@ -13,5 +13,5 @@ Jenkins test
 <<<<<<< HEAD
 Slack Notification test 
 =======
-slack 알림확인  (7차)
+slack 알림확인  ( 8차)
 >>>>>>> 561fd9805a98ff6e9dd656b9aeb6ad7341536f51
